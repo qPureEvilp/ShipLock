@@ -1,9 +1,10 @@
 # ShipLock
 MoveCraft Shiplock plugin
-Decompiled version of a plugin I paid to have made, but never got the raw files for.
+
+Decompiled version of a plugin I paid to have made, but never recived the raw files for it.
 
 Decompiled using JD-Gui
-Used Eclipse to remake all teh class files
+Used Eclipse to remake all the class files
 Uploaded it to git
 
 
